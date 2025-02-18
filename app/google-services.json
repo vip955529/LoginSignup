@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "641708246779",
+    "project_id": "loginsignup-f1a09",
+    "storage_bucket": "loginsignup-f1a09.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:641708246779:android:fb48ebe6db89265688125e",
+        "android_client_info": {
+          "package_name": "com.techvipin130524.loginsignup"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "641708246779-lul4h9392kpcvs5egifnmt71rnef0s3u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.techvipin130524.loginsignup",
+            "certificate_hash": "27e871999cce5cd14ccce8f961c7a2404efce545"
+          }
+        },
+        {
+          "client_id": "641708246779-6thdeimrk2od6bohllt51h606ur1c1ii.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBijsKF6DvjZO0yr4B3krOXxEkXjwIQqDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "641708246779-6thdeimrk2od6bohllt51h606ur1c1ii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
